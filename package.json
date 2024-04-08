@@ -1,0 +1,22 @@
+{
+  "name": "atividade-1--backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "erick.neves@iesb.edu.br"
+  },
+  "keywords": [
+    "@110219Ep"
+  ],
+  "description": ""
+}
